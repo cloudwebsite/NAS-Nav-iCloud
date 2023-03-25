@@ -3376,6 +3376,7 @@ div ul li a, div ul li a strong, ul li {
 div ul li a:visited, ul li a:active, ul li a:link {
     text-decoration: none;
     text-align: center;
+    background: #b4a1cc14;
 }
 
 ul li a strong {
